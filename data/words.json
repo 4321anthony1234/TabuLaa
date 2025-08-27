@@ -1,0 +1,102 @@
+[
+  {
+    "word": "masa",
+    "taboos": [
+      "internet",
+      "yemek",
+      "ders",
+      "sayfa",
+      "defter"
+    ]
+  },
+  {
+    "word": "kitap",
+    "taboos": [
+      "resim",
+      "kahve",
+      "telefon",
+      "internet",
+      "bilgi"
+    ]
+  },
+  {
+    "word": "araba",
+    "taboos": [
+      "spor",
+      "bahçe",
+      "bilgi",
+      "yemek",
+      "koşu"
+    ]
+  },
+  {
+    "word": "telefon",
+    "taboos": [
+      "defter",
+      "yazar",
+      "bilgi",
+      "tatil",
+      "yemek"
+    ]
+  },
+  {
+    "word": "çanta",
+    "taboos": [
+      "yüzme",
+      "kahve",
+      "kapı",
+      "deniz",
+      "sandalye"
+    ]
+  },
+  {
+    "word": "ev",
+    "taboos": [
+      "mobilya",
+      "oturmak",
+      "kağıt",
+      "koşu",
+      "kahve"
+    ]
+  },
+  {
+    "word": "bilgisayar",
+    "taboos": [
+      "spor",
+      "yüzme",
+      "ders",
+      "şehir",
+      "internet"
+    ]
+  },
+  {
+    "word": "kalem",
+    "taboos": [
+      "müzik",
+      "oyun",
+      "tatil",
+      "oturmak",
+      "kahve"
+    ]
+  },
+  {
+    "word": "kapı",
+    "taboos": [
+      "araç",
+      "klavye",
+      "anahtar",
+      "şehir",
+      "roman"
+    ]
+  },
+  {
+    "word": "çocuk",
+    "taboos": [
+      "deniz",
+      "oyun",
+      "yazar",
+      "ders",
+      "roman"
+    ]
+  }
+]
